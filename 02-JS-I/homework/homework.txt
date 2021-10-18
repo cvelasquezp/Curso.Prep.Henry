@@ -1,8 +1,0 @@
-HOMEWORK 02-JS-I
-
-1. Explicar conceptos
--Variables: es una caja con nombre donde guardas cosas para poder usarlas despues. Pueden ser numeros, cadenas de caracteres, booleanos, y otros, dependiendo.
--Strings: son cadenas de letras, que se reconocen porque estan adentro de 'comillas'. Es una forma de que el computador guarde un texto por ejemplo.
--Funciones: es una manera agrupar el codigo, para poder usarlo despues y para no tener que escribir mas codigo que el que necesitamos. Tiene argumentos, que son los datos que metemos, tiene un codigo por dentro que le dice que hacer con esos datos, y regresa un resultado.
--Declaraciones if: son condicionales, es decir que si algo es verdad entonces se cumple algo y si algo no es verdad, entonces se cumple algo mas. Asi como si esta lloviendo llevo sombrilla y si esta haciendo sol entonces no la llevo.
--Valores booleanos: los booleanos son un tipo de datos, solo pueden ser o verdadero o falso, 0 o 1.
